@@ -5,7 +5,7 @@ Prisoner's Dilemma is extended to continuous actions and repeated interaction.
 
 ## Overview
 
-This group project studies variants of the Prisoner's Dilemma beyond the
+This group dissertation studies variants of the Prisoner's Dilemma beyond the
 standard one-shot, two-action game. It examines continuous strategy spaces,
 repeated play, cooperation, retaliation, and the long-run behaviour of competing
 strategies.
